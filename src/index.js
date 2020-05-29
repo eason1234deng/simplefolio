@@ -13,8 +13,8 @@ $('a[href^="#"]').on('click', function(event) {
         {
           scrollTop: target.offset().top
         },
-        1100
-      ); 
+        1000
+      );
   }
 });
 
